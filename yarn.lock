@@ -294,11 +294,6 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@frsource/vite-plugin-stylelint@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@frsource/vite-plugin-stylelint/-/vite-plugin-stylelint-1.0.0.tgz#063edea8cb9fe341af0438ede8a5067c302a7189"
-  integrity sha512-YsVJHtSHGMWVQ9yi/VowepfGC17rjaDzVwnNVLipNErbT5jT1qmdJgF/EWlcFwY0sbjYd/KXv0P9HD6w1Pqxjg==
-
 "@humanwhocodes/config-array@^0.10.4":
   version "0.10.4"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.10.4.tgz#01e7366e57d2ad104feea63e72248f22015c520c"
